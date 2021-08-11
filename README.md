@@ -16,6 +16,10 @@ The entire functionality of our system is broadly categorized into 3 parts.
 
 ![image](https://user-images.githubusercontent.com/71213565/129011353-157e1334-2ba3-4288-95b8-a160594d9964.png)
 
+**Circuit Diagram**
+
+![image](https://user-images.githubusercontent.com/71213565/129011861-ef02ad87-3590-4490-88f3-aa89c366acc4.png)
+
 
 **Conclusion**
 As the world is growing enormously in terms of technology in all fields especially in medical field, this system is an aid by engineering to medicine. The module developed met the objectives we set. It’s a convenient, reliable and effortless saline monitoring system. It avoids the harmful situations of patient’s health owing to negligence towards saline completion. The system is fully automatic in terms of monitoring the saline status and can handle the hazardous blood reverse flow situation. The implementation of alert system became easy with IoT, which made this system more flexible when compared to existing methods.
